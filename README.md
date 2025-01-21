@@ -2,7 +2,7 @@
 # Conversor de Moeda em Java
 
 
-Realizado como Desafio para a conclusão do curso de Java e Orientação a Objetos G7 - ONE, ministrado pela Oracle e Alura.
+Realizado como Desafio para a conclusão do curso de Java e Orientação a Objetos G7 - ONE, ministrado pela Oracle e Alura, para desenvolvimento Back-End.
 
 Este é um projeto simples de um Conversor de Moedas que permite realizar conversões entre diferentes moedas com base em taxas de câmbio dinâmicas fornecidas pela API ExchangeRate-API. O programa é executado via console e foi desenvolvido em Java.
 
